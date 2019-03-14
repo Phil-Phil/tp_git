@@ -12,3 +12,6 @@ Page principale de présentation des liens
 
 liensweb.js:
 Le fichier liensweb.js initial contient une liste de liens fournie sous la forme d’un tableau d’objet JavaScript.
+
+liensweb.css:
+Feuille de style liée à la présentation de la page principale
